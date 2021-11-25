@@ -1,0 +1,44 @@
+---
+title: "Logit.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+Titanic <- titanic::titanic_train
+library(ggROC)
+library(plotROC)
+library(pROC)
+```
+
+
+```{r}
+Titanic_lgt_O <- glm(Survived ~ Sex + Pclass + Age, Titanic,
+                     family = "binomial")
+summary(Titanic_lgt_O)
+```
+
+
+```{r}
+Titanic_lgt_1 <- glm(Survived ~ Sex + as.factor(Pclass) + Age, Titanic,
+                     family = "binomial")
+summary(Titanic_lgt_1)
+```
+
+
+```{r}
+Titanic$pred <- predict(Titanic_lgt_1, Titanic, type = "response")
+```
+
+
+```{r}
+Titanic_roc <- roc(Titanic$Survived ~ Titanic$pred)
+ggroc(Titanic_lgt_1)
+ggplot(Titanic, aes(x = Titanic$Survived, y = Titanic$pred))
++ geom_roc() + style_roc()
+```
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+---
+title: "OLS.Rmd"
+output: html_document
+---
+
+```{r setup}
+library(ggplot2)
+load("Sales.RData")
+```
+
+Explore
+
+```{r}
+qplot(Sales$units_sold)
+```
+
+```{r}
+qplot(log(Sales$units_sold))
+```
+Fit a linear Model
+
+```{r}
+Sales_lm_0 <- lm(log(units_sold) ~ price + rating, Sales)
+summary(Sales_lm_0)
+```
+
+```{r}
+Sales_lm_0 <- lm(log(units_sold) ~ rating_count + merchant_rating_count, Sales)
+summary(Sales_lm_0)
+```
+
+But not right because the units sold also influence rating_count, you rate an article after you bought it!
+
+```{r}
+Sales_lm_1 <- lm(log(units_sold) ~ ., Sales)
+summary(Sales_lm_1)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
