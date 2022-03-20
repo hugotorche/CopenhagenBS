@@ -1,0 +1,41 @@
+,Brand,Brand Owner,Twitter,Apparel,Shoes,Watch,Jewelry,Leather,Accessories/Others,Eyewear,Fragrances,Beauty,Partition,Centrality
+0,Cartier,Richemont SA,Cartier,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,0.5384615384615384
+1,Van Cleef & Arpels,Richemont SA,vancleefarpels,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1,0.6153846153846154
+2,Burberry,Richemont SA,Burberry,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+3,Baume & Mercier,Richemont SA,baumeetmercier,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+4,IWC,Richemont SA,IWC,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+5,Jaeger-LeCoultre,Richemont SA,jaegerlecoultre,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+6,Piaget,Richemont SA,Piaget,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1,0.5897435897435898
+7,Ralph Lauren (JV with RL US),Richemont SA,RalphLauren,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1,0.5897435897435898
+8,Roger Dubuis,Richemont SA,Roger_Dubuis,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+9,Vacheron Constantin,Richemont SA,Vacheron1755,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+10,Montblanc,Richemont SA,montblanc_world,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0,0.6666666666666666
+11,Alfred Dunhill,Richemont SA,alfreddunhill,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0,0.4615384615384615
+12,Chloé,Richemont SA,chloefashion,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0,0.4615384615384615
+13,Giampiero Bodino,Richemont SA,petermillar,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1,0.1794871794871795
+14,Gucci,Kering,Gucci,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,0.5128205128205128
+15,Saint Laurent,Kering,YSL,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0,0.4615384615384615
+16,Alexander McQueen,Kering,McQueen,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0,0.48717948717948717
+17,Balenciaga,Kering,BALENCIAGA,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0,0.48717948717948717
+18,Ulysse Nardin,Kering,ulysse_nardin,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+19,Boucheron,Kering,Boucheron,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1,0.6153846153846154
+20,Girard-Perregaux,Kering,GirardPerregaux,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+21,Jeanrichard,Kering,jrwatches,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+22,Sergio Rossi,Kering,sergiorossi,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0.28205128205128205
+23,Louis Vuitton,LVMH,LouisVuitton,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0.5641025641025641
+24,Dior,LVMH,Dior,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0,0.5384615384615384
+25,Loewe,LVMH,LoeweOfficial,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0,0.4358974358974359
+26,Kenzo,LVMH,kenzo,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0,0.4615384615384615
+27,Givenchy,LVMH,givenchy,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0,0.4615384615384615
+28,Marc Jacobs,LVMH,marcjacobs,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0.5128205128205128
+29,Fendi,LVMH,Fendi,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0,0.4358974358974359
+30,Emilio Pucci,LVMH,EmilioPucci,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0,0.3076923076923077
+31,Nicholas Kirkwood,LVMH,NKirkwoodLondon,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0.10256410256410256
+32,Guerlain,LVMH,Guerlain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3,0.15384615384615385
+33,BeneFit Cosmetics,LVMH,BenefitBeauty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3,0.10256410256410256
+34,MAKE UP FOR EVER,LVMH,Makeupforever,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3,0.10256410256410256
+35,TAG Heuer,LVMH,TAGHeuer,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+36,Zenith,LVMH,ZenithWatches,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+37,Hublot,LVMH,Hublot,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.48717948717948717
+38,Chaumet,LVMH,Chaumet,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1,0.5897435897435898
+39,Bulgari,LVMH,Bulgariofficial,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,0.5384615384615384
